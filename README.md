@@ -35,7 +35,7 @@ Furthermore, in the [predict_shot_selection]() Jupyter notebook we use some cust
 - [modelEvaluation](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/modelEvaluation.py): In this file we calculate some metrics and also we compute the confusion matrix.
 
 
-All the above codes are used to the [predict_shot_selection]() to make more cleaner and professional code. In this file we use the two best model which is Regularized Logistic Regression and Artificial Neural Networks. Finally, we compare this two models to see which is better. You can read all the Python work [here]().
+All the above codes are used to the [predict_shot_selection]() to make more cleaner and professional code. In this file we use the two best model which is Regularized Logistic Regression and Artificial Neural Networks. Finally, we compare this two models to see which is better. You can check all the Python codes [here]().
 
 ## Results
 
