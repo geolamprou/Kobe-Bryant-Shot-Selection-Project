@@ -1,6 +1,6 @@
 # Kobe Bryant Shot Selecection Project
 
-# Introduction
+## Introduction
 
 Without any doubt, Kobe Bryant was one of the greatest basketball players of all time! In his twenty-year professional career with the Los Angeles Lakers, Kobe Bryant took a total of **35,697 shots** and scored **33,643 points.**. The purpose of this analysis is to analyze Kobe's shots and find which parameters are significant about whether a shot is successful or unsuccessful.
 
@@ -10,7 +10,7 @@ This work is dedicated to the memorial of Kobe Bryant, the player and mostly the
 
 For the data management, data visualization, statistical data analysis, models' construction and predictions, the programming languages **R** and **Python** were used. Also we provide a report which can be seen [here]()
 
-# R Language
+## R Language
 R Programming Language is one of the most famous programming languages specially for statisticians and data scientist. The purpose of using R in the current project mostly is to manage the main the dataset and to create some beautiful data visualizations using the ggplot package. Furthermore, we apply a few statistical tests in order to extract which basketball factor play a significant role on Kobe's shot. 
 Before, the results' presentation, it is worth to mention that based the main dataset we created a new variable with the name "home_at". This variable contains 2 values: Home: when Kobe played at home & Away: when Kobe played 'on the road'. So main statistical results are presented below.
 1. There is a statistical significant correlation between variables shot_made_flag and home_at (Χ^2= 10.358, df=1, p < 0.05). In other words, the shot result is related to whether Kobe Bryant was playing the match at home or away 
@@ -18,7 +18,7 @@ Before, the results' presentation, it is worth to mention that based the main da
 
 You can read the whole R code which includes the data management, the visualizations and the statical tests, by clicking the file [kobe_shot_selection_R_work.R]().  
 
-# Python
+## Python
 Python is an object-oriented language and a powerful tool for data scientists. The main purpose of using Python in this context is to predict the success of basketball shots. Additionally, we clean the data and perform Exploratory Data Analysis (EDA) techniques to understand how various parameters impact the shots made by Kobe Bryant.
 
 During the analysis, we create many Python files. First of all, we provide two main code.
@@ -37,7 +37,7 @@ Furthermore, in the [predict_shot_selection]() Jupyter notebook we use some cust
 
 All the above codes are used to the [predict_shot_selection]() to make more cleaner and professional code. In this file we use the two best model which is Regularized Logistic Regression and Artificial Neural Networks. Finally, we compare this two models to see which is better. You can read all the Python work [here]().
 
-# Results
+## Results
 
 As for results, our predictions is quite low. It seems that we don't have strong features to predict the success of a shot. But let's compare the models in some visualization.
 Let's see the confusion matrices of the two models.
