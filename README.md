@@ -26,7 +26,7 @@ During the analysis, we create many Python files. First of all, we provide two m
 1. [kobe_bryant_shot_selection](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/kobe_bryant_shot_selection.ipynb) :The raw file which we clean the data, perform EDA, Inferential statistics and Prediction.
 2. [predict_shot_selection](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/predict_shot_selection.ipynb) : This is a Jupyter Notebook that uses Object-Oriented techniques to make the code cleaner and more professional. 
 
-Furthermore, in the [predict_shot_selection]() Jupyter notebook we use some custom methods that created based on the raw Jupyter notebook [kobe_bryant_shot_selection](). So the custom methods is the following:
+Furthermore, in the [predict_shot_selection](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/predict_shot_selection.ipynb) Jupyter notebook we use some custom methods that created based on the raw Jupyter notebook [kobe_bryant_shot_selection](). So the custom methods is the following:
 
 - [DataCleaning](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/DataCleaning.py): In this file we check for null or duplicates values and split the dataset into training and tesing set. We also change the data type of some features.
 - [featureVisualization](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/featureVisualization.py): We perform feature visualization to undestrand the dataset furthermore and select which parameters will be better predictors.
@@ -35,7 +35,7 @@ Furthermore, in the [predict_shot_selection]() Jupyter notebook we use some cust
 - [modelEvaluation](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/modelEvaluation.py): In this file we calculate some metrics and also we compute the confusion matrix.
 
 
-All the above codes are used to the [predict_shot_selection]() to make more cleaner and professional code. In this file we use the two best model which is Regularized Logistic Regression and Artificial Neural Networks. Finally, we compare this two models to see which is better. You can check all the Python codes [here]().
+All the above codes are used to the [predict_shot_selection](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/predict_shot_selection.ipynb) to make more cleaner and professional code. In this file we use the two best model which is Regularized Logistic Regression and Artificial Neural Networks. Finally, we compare this two models to see which is better. You can check all the Python codes [here](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/tree/main/Python).
 
 ## Results
 
