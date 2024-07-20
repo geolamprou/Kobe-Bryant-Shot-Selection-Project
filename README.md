@@ -42,12 +42,12 @@ All the above codes are used to the [predict_shot_selection](https://github.com/
 As for results, our predictions is quite low. It seems that we don't have strong features to predict the success of a shot. But let's compare the models in some visualization.
 Let's see the confusion matrices of the two models.
 
-![Poll Mockup](./images/confusion_matrices2.png)
+![Poll Mockup](./Visualizations/confusion_matrices2.png)
 
 
 The roc curves of two models.
-![Poll Mockup](./images/roc_curves_comparison.png)
+![Poll Mockup](./Visualizations/roc_curves_comparison.png)
 
 Finally, we visualize a comparison of metrics.
 
-![Poll Mockup](./images/metrics_comparison.png)
+![Poll Mockup](./Visualizations/metrics_comparison.png)
