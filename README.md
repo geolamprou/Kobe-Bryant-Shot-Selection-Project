@@ -16,7 +16,7 @@ Before, the results' presentation, it is worth to mention that based the main da
 1. There is a statistical significant correlation between variables shot_made_flag and home_at (Χ^2= 10.358, df=1, p < 0.05). In other words, the shot result is related to whether Kobe Bryant was playing the match at home or away 
 2. There is a statistical significant correlation between variables shot_made_flag and shot_type (Χ^2= 378.51, df=1, p < 0.05). In other words, the shot result is related to the shot type.
 
-You can read the whole R code which includes the data management, the visualizations and the statical tests, by clicking the file [kobe_shot_selection_R_work.R]().  
+You can read the whole R code which includes the data management, the visualizations and the statical tests, by clicking the file [kobe_shot_selection_R_work.R](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/R/kobe_shot_selection_R_work.R).  
 
 ## Python
 Python is an object-oriented language and a powerful tool for data scientists. The main purpose of using Python in this context is to predict the success of basketball shots. Additionally, we clean the data and perform Exploratory Data Analysis (EDA) techniques to understand how various parameters impact the shots made by Kobe Bryant.
