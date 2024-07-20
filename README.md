@@ -51,3 +51,13 @@ The roc curves of two models.
 Finally, we visualize a comparison of metrics.
 
 ![Poll Mockup](./Visualizations/metrics_comparison.png)
+
+## Contact us
+For questions or corrections or proposals for better analysis, feel free to communicate with us:
+
+1. Diumitrios Katos, Mathematician M.Sc.
+   @: dimitriskatos6@gmail.com
+
+2. Georgios Lamprou, Matematician M.Sc.
+   @: georgioslamprou98@gmail.com
+
