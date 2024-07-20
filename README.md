@@ -24,7 +24,7 @@ Python is an object-oriented language and a powerful tool for data scientists. T
 During the analysis, we create many Python files. First of all, we provide two main code.
 
 1. [kobe_bryant_shot_selection](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/kobe_bryant_shot_selection.ipynb) :The raw file which we clean the data, perform EDA, Inferential statistics and Prediction.
-2. [predict_shot_selection]() : This is a Jupyter Notebook that uses Object-Oriented techniques to make the code cleaner and more professional. 
+2. [predict_shot_selection](https://github.com/geolamprou/Kobe-Bryant-Shot-Selection-Project/blob/main/Python/predict_shot_selection.ipynb) : This is a Jupyter Notebook that uses Object-Oriented techniques to make the code cleaner and more professional. 
 
 Furthermore, in the [predict_shot_selection]() Jupyter notebook we use some custom methods that created based on the raw Jupyter notebook [kobe_bryant_shot_selection](). So the custom methods is the following:
 
