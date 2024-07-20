@@ -622,22 +622,3 @@ fisher.test(x=kobe_basic_new$shot_made_flag, y=kobe_basic_new$shot_type,
 chisq.test(kobe_basic_new$shot_made_flag, kobe_basic_new$shot_type)
 
 Assocs(shot_made_vs_shot_type)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
