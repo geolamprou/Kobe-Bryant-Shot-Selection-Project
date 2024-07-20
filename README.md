@@ -44,6 +44,11 @@ Let's see the confusion matrices of the two models.
 
 ![Poll Mockup](./Visualizations/confusion_matrices2.png)
 
+<p align="center">
+  <img src="https://github.com/geolamprou/Olympics-Insights/assets/127976930/56f05c0e-ede3-4c34-a005-28c3196a7326" width="400" height="230" >
+</p>
+
+
 
 The roc curves of two models.
 ![Poll Mockup](./Visualizations/roc_curves_comparison.png)
