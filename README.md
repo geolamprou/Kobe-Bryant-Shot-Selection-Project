@@ -8,7 +8,7 @@ The data came from a dataset on Kaggle named: "Kobe Bryant Shot Selection - Whic
 
 This work is dedicated to the memorial of Kobe Bryant, the player and mostly the personality that make us to love basketball with a more romantic way!
 
-For the data management, data visualization, statistical data analysis, models' construction and predictions, the programming languages **R** and **Python** were used. Also we provide a report which can be seen [here]()
+For the data management, data visualization, statistical data analysis, models' construction and predictions, the programming languages **R** and **Python** were used. Also we provide a report, in a presentation format, which can be seen [here]()
 
 ## R Language
 R Programming Language is one of the most famous programming languages specially for statisticians and data scientist. The purpose of using R in the current project mostly is to manage the main the dataset and to create some beautiful data visualizations using the ggplot package. Furthermore, we apply a few statistical tests in order to extract which basketball factor play a significant role on Kobe's shot. 
