@@ -55,9 +55,9 @@ Finally, we visualize a comparison of metrics.
 ## Contact us
 For questions or corrections or proposals for better analysis, feel free to communicate with us:
 
-1. Diumitrios Katos, Mathematician M.Sc.
-   @: dimitriskatos6@gmail.com
+1. Dimitrios Katos, Mathematician M.Sc.<br>
+@: dimitriskatos6@gmail.com
 
-2. Georgios Lamprou, Matematician M.Sc.
-   @: georgioslamprou98@gmail.com
+2. Georgios Lamprou, Matematician M.Sc. <br>
+@: georgioslamprou98@gmail.com
 
